@@ -1,0 +1,11 @@
+C:\Users\negak\source\repos\KT13\KT13\bin\Debug\KT13.exe.config
+C:\Users\negak\source\repos\KT13\KT13\bin\Debug\KT13.exe
+C:\Users\negak\source\repos\KT13\KT13\bin\Debug\KT13.pdb
+C:\Users\negak\source\repos\KT13\KT13\obj\Debug\KT13.csproj.AssemblyReference.cache
+C:\Users\negak\source\repos\KT13\KT13\obj\Debug\KT13.csproj.SuggestedBindingRedirects.cache
+C:\Users\negak\source\repos\KT13\KT13\obj\Debug\KT13.Form1.resources
+C:\Users\negak\source\repos\KT13\KT13\obj\Debug\KT13.Properties.Resources.resources
+C:\Users\negak\source\repos\KT13\KT13\obj\Debug\KT13.csproj.GenerateResource.cache
+C:\Users\negak\source\repos\KT13\KT13\obj\Debug\KT13.csproj.CoreCompileInputs.cache
+C:\Users\negak\source\repos\KT13\KT13\obj\Debug\KT13.exe
+C:\Users\negak\source\repos\KT13\KT13\obj\Debug\KT13.pdb
